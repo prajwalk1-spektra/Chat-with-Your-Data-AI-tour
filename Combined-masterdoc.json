@@ -4,23 +4,23 @@
         "Language": "English",
         "Files": [
              {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "RawFilePath": "https://raw.githubusercontent.com/prajwalk1-spektra/Chat-with-Your-Data-AI-tour/refs/heads/main/English/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
                 "Order": 1
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "RawFilePath": "https://raw.githubusercontent.com/prajwalk1-spektra/Chat-with-Your-Data-AI-tour/refs/heads/main/English/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
                 "Order": 2
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "RawFilePath": "https://raw.githubusercontent.com/prajwalk1-spektra/Chat-with-Your-Data-AI-tour/refs/heads/main/English/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
                 "Order": 3
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "RawFilePath": "https://raw.githubusercontent.com/prajwalk1-spektra/Chat-with-Your-Data-AI-tour/refs/heads/main/English/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
                 "Order": 4
             },
             {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "RawFilePath": "https://raw.githubusercontent.com/prajwalk1-spektra/Chat-with-Your-Data-AI-tour/refs/heads/main/English/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
                 "Order": 5
             }         
         ]
