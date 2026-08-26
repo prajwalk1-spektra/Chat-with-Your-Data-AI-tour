@@ -1,0 +1,262 @@
+[
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "English",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/English/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }         
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Portuguese",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Portuguese/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Portuguese/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Portuguese/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Portuguese/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Portuguese/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Korean",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Korean/labguide/Lab-01.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Korean/labguide/Lab-02.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Korean/labguide/Lab-03.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Korean/labguide/Lab-04.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Korean/labguide/Lab-05.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Japanese",
+        "Files": [
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Japanese/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Japanese/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Japanese/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Japanese/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Japanese/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }       
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "German",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/German/labguide/Lab-01.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/German/labguide/Lab-02.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/German/labguide/Lab-03.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/German/labguide/Lab-04.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/German/labguide/Lab-05.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "French",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/French/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/French/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/French/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/French/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/French/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Spanish-ES",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-01.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-02.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-03.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-04.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-05.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Spanish-LATAM",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-01.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-02.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-03.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-04.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Spanish/labguide/Lab-05.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Italian",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Italian/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Italian/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Italian/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Italian/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Italian/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }          
+        ]
+    },
+    {
+        "Name": "CDIAD - Chat-with-your-Data-AI-tour",
+        "Language": "Simplified Chinese",
+        "Files": [
+             {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Chinese/labguide/Lab-01---CDIAD---Exploring-Chat-with-your-Data-Jun-2026.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Chinese/labguide/Lab-02---CDIAD---Semantic-Model-Best-Practices-Jun-2026.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Chinese/labguide/Lab-03---CDIAD---Prep-Data-for-AI-Jun-2026.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Chinese/labguide/Lab-04---CDIAD---Standalone-Copilot-Jun-2026.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Chat-with-Your-Data-AI-tour/refs/heads/June-2026/Chinese/labguide/Lab-05---CDIAD---Fabric-Data-Agents-Jun-2026.md",
+                "Order": 5
+            }          
+        ]
+    }
+]
